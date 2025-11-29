@@ -1,5 +1,5 @@
 <img width="2874" height="1654" alt="IsRoniAround" src="https://github.com/user-attachments/assets/40f76dee-bf1c-443b-b2e6-bd9c017f26e6" />
-![PXL_20251030_182709824](https://github.com/user-attachments/assets/24dcbfb4-39d6-431a-8aba-2282d74662c6)
+<img width="2874" height="1654" alt="IsRoniAround" src="https://github.com/user-attachments/assets/24dcbfb4-39d6-431a-8aba-2282d74662c6"/>
 
 
 # HuskyLens2MCP
