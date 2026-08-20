@@ -727,42 +727,6 @@ This is also the article linked from the GitHub repository's **About** section.
 
 ---
 
-## 💬 Community references
-
-The repository has also been used and discussed by other HUSKYLENS users in the DFRobot support forum.
-
-### DFRobot Forum — MCP compatibility
-
-**[Issue with running huskyMcpChat.py](https://www.dfrobot.com/forum/topic/399449)**
-
-A user testing the `HuskyLens2MCP` repository documented problems with firmware `1.2.1`, including:
-
-* `switch_application` errors
-* invalid recognition JSON
-* MCP instability
-
-DFRobot later reported that **firmware 1.2.2 fixes MCP instability issues and adds additional MCP tools**.
-
-This thread is useful troubleshooting material for anyone reproducing the project with firmware versions newer than the original `1.1.6` release.
-
----
-
-### DFRobot Forum — HuskyMCPChat setup
-
-**[HuskyMCPChat.py can't find com port](https://www.dfrobot.com/forum/topic/401807)**
-
-Another user explicitly references:
-
-```text
-https://github.com/ronibandini/HuskyLens2MCP
-```
-
-while troubleshooting the Python client and HUSKYLENS 2 connectivity.
-
-The thread is also useful for clarifying an important point: **this project communicates with the HUSKYLENS MCP Server over the network**, rather than controlling the camera through a serial COM port.
-
----
-
 ## 📚 Useful documentation
 
 * **[HUSKYLENS 2 Official Wiki](https://wiki.dfrobot.com/sen0638/)**
